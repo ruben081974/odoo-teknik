@@ -1,0 +1,2 @@
+# odoo-teknik
+Repositorio Odoo
